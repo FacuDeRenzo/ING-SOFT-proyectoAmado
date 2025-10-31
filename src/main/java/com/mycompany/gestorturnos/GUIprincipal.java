@@ -222,9 +222,12 @@ public class GUIprincipal extends javax.swing.JFrame {
     
     private void ModificarTurnoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ModificarTurnoActionPerformed
         //sirve para abrir pagina sobre pagina
+        
+        
         ModificarTurno mp = new ModificarTurno();
         mp.setVisible(true);
         this.dispose();
+        
     }//GEN-LAST:event_ModificarTurnoActionPerformed
 
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
